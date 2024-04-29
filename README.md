@@ -6,4 +6,6 @@ Meu nome é Kauan Henrique Silva pereira.
 *Estou me desenvolvendo na linguagem JavaScript.
 *Utilizo esse espaço para minha organização.
 
+
+
 ![](https://tenor.com/bSqHS.gif)
